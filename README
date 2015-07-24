@@ -1,2 +1,5 @@
+A small chat-application for transferring images and text messages.
+
+Usage
 To run the server you need to run ServerController.java
 To run the client you need to run ClientController.java
